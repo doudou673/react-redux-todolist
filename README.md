@@ -12,7 +12,7 @@
 
 ## 最终页面效果
 
-![](https://github.com/wode673/react-redux-todolist/result.gif  "页面效果")\
+![](https://github.com/wode673/react-redux-todolist/result.gif  "页面效果")
 
 ### `代码笔记`
 
